@@ -11,7 +11,6 @@ HTML, CSS, Javascript, Git, Figma
 
 
 ## Outras seções comuns em perfis do GitHub
-👩‍💻 Trabalho atualmente na/no...
 
 🧠 Estou aprendendo a linguagem Javascript
 
